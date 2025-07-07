@@ -1,0 +1,12 @@
+# Ignore Python environment
+venv/
+
+# Ignore cache and compiled files
+__pycache__/
+*.pyc
+
+# VSCode settings (optional)
+.vscode/
+
+# Ignore test media files
+test-data/
